@@ -1,0 +1,18 @@
+getwd()
+
+library(tidyverse)
+library(ggplot2)
+
+dados<- read.csv("Pokemon.csv")
+
+grama2<- dados %>% filter((Type.1=="Grass"|Type.2=="Grass") & Generation==2)
+
+
+grama2.1<- dados %>% subset((Type.1=="Grass"|Type.2=="Grass") & Generation==2)
+
+x<- grama2
+y<- grama2.1
+
+plot.design(x)
+
+plot(x*y)

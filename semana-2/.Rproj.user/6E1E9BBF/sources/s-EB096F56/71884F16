@@ -1,0 +1,32 @@
+{
+    "id": "71884F16",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598233350160.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "dados2",
+        "caption": "dados2",
+        "totalObservations": 800,
+        "displayedObservations": 800,
+        "variables": 13,
+        "cacheKey": "66AD1070",
+        "object": "dados2",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=dados2&cache_key=66AD1070&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3546639902021531957,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598233350160,
+    "read_only": false,
+    "read_only_alternatives": []
+}
